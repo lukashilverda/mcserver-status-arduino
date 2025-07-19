@@ -56,13 +56,13 @@ This project connects an ESP32 to Wi-Fi and fetches a JSON response from a serve
 
 ```cpp
 
- const char\* ssid = "YOUR\_SSID";
+ const char\* ssid = "YOUR_SSID";
 
- const char\* password = "YOUR\_PASSWORD";
+ const char\* password = "YOUR_PASSWORD";
+
+ String url = "https://api.mcsrvstat.us/3/YOUR_SERVER_IP";
 
 ```
-
-&nbsp;  String url = "http://your-server.com/status";
 
 
 
