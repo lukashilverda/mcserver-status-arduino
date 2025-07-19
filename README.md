@@ -1,4 +1,4 @@
-\## ESP32 WiFi JSON Status Checker
+<h1 align="center">Minecraft server ESP32 status checker</h1>
 
 
 
@@ -8,19 +8,23 @@ Made by Lukas Hilverda
 
 This project connects an ESP32 to Wi-Fi and fetches a JSON response from a server. It checks for an `"online"` field and prints the status to the Serial Monitor.
 
+* [Features](#features)
+* [Requirements](#requirements)
+* [Setup](#setup)
 
 
-\### Features
+
+## Features
 
 
 
-\- Connects to Wi-Fi
+\* Connects to Wi-Fi
 
-\- Sends an HTTP GET request
+\* Sends an HTTP GET request
 
-\- Parses JSON using ArduinoJson
+\* Parses JSON using ArduinoJson
 
-\- Prints online status
+\* Prints online status
 
 
 
@@ -28,17 +32,17 @@ This project connects an ESP32 to Wi-Fi and fetches a JSON response from a serve
 
 
 
-\- ESP32 board
+\* ESP32 board
 
-\- Arduino IDE or PlatformIO
+\* Arduino IDE or PlatformIO
 
-\- Libraries:
+\* Libraries:
 
-&nbsp; - WiFi.h
+&nbsp; * WiFi.h
 
-&nbsp; - HTTPClient.h
+&nbsp; * HTTPClient.h
 
-&nbsp; - ArduinoJson
+&nbsp; * ArduinoJson
 
 
 
