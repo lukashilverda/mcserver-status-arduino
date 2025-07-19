@@ -1,4 +1,4 @@
-# \# ESP32 WiFi JSON Status Checker
+# <h1 align="center">ESP32 WiFi JSON Status Checker</h1>
 
 # 
 
