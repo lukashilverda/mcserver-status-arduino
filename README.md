@@ -60,6 +60,8 @@ This project connects an ESP32 to Wi-Fi and fetches a JSON response from a serve
 
 &nbsp;  const char\* password = "YOUR\_PASSWORD";
 
+&nbsp; ```
+
 &nbsp;  String url = "http://your-server.com/status";
 
 
