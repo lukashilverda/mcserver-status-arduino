@@ -28,7 +28,7 @@ This project connects an ESP32 to Wi-Fi and fetches a JSON response from a serve
 
 
 
-\### Requirements
+## Requirements
 
 
 
@@ -46,7 +46,7 @@ This project connects an ESP32 to Wi-Fi and fetches a JSON response from a serve
 
 
 
-\### Setup
+## Setup
 
 
 
