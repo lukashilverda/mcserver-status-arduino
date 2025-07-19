@@ -54,13 +54,13 @@ This project connects an ESP32 to Wi-Fi and fetches a JSON response from a serve
 
 2\. Fill in your Wi-Fi credentials and server URL:
 
-&nbsp;  ```cpp
+```cpp
 
 &nbsp;  const char\* ssid = "YOUR\_SSID";
 
 &nbsp;  const char\* password = "YOUR\_PASSWORD";
 
-&nbsp; ```
+```
 
 &nbsp;  String url = "http://your-server.com/status";
 
