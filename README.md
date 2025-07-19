@@ -56,9 +56,9 @@ This project connects an ESP32 to Wi-Fi and fetches a JSON response from a serve
 
 ```cpp
 
-&nbsp;  const char\* ssid = "YOUR\_SSID";
+ const char\* ssid = "YOUR\_SSID";
 
-&nbsp;  const char\* password = "YOUR\_PASSWORD";
+ const char\* password = "YOUR\_PASSWORD";
 
 ```
 
