@@ -10,11 +10,11 @@ This project is a simple ESP32 program that connects to a Wi-Fi network and fetc
 
 
 
-&nbsp;	\* \[Features](#features)
+\## Table of Contents
 
-&nbsp;	\* \[Requirements](#requirements)
 
-&nbsp;	\* \[Installation](#installation)
+
+\* \[Introduction](#introduction)
 
 
 
